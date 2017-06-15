@@ -1,0 +1,6 @@
+[package]
+name = "statements"
+version = "0.1.0"
+authors = ["osboxes"]
+
+[dependencies]
